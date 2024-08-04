@@ -3,7 +3,7 @@
 This script is designed to streamline the use of VineTrimmer for downloading videos from streaming services. It has been customized to improve user-friendliness and accessibility, making it more intuitive for both personal use and for others. Please note that the script does not directly download content from AMZN, DSNP, MAX, or similar services; instead, it facilitates the process through VineTrimmer.
 
 > [!NOTE]
-> I will only be providing the script I created for VineTrimmer; support requests will not be handled here.
+> I will only be providing the script I created for VineTrimmer; support requests will not be handled here. I am currently working on this project during my personal time, and as such, there is no estimated timeframe for the implementation of the features discussed.
 
 # Upcoming Features
 > [!WARNING]

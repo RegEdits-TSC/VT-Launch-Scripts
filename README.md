@@ -38,7 +38,8 @@ git clone https://github.com/RegEdits-TSC/VT-Launch-Scripts.git
 # Usage
 To use the VineTrimmer script, open the downloaded .bat file. Follow the on-screen prompts to provide the necessary information, including the video URL, quality settings, release range, codec preferences, and options for subtitles and remuxing.
 
-============================================================================================
+> [!IMPORTANT]
+> To ensure the script functions correctly, VineTrimmer must be properly installed. If you would like to support the project or provide feedback and constructive criticism, please do not hesitate to reach out.
 
 ## RegEdits Torrenting
 

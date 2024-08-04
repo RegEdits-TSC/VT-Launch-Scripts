@@ -8,8 +8,12 @@ This script is designed to streamline the use of VineTrimmer for downloading vid
 # Upcoming Features
 > [!WARNING]
 > The features listed here are not necessarily prioritized in the order presented. This is simply a compilation of items I plan to work on.
+- [x] Support for MAX
+- [x] Support for DSNP
 - [x] Support for AMZN
 - [ ] Support for ATVP
+- [ ] Support for PMTP
+- [ ] Support for NF
 - [ ] Implement script looping to prevent repeated opening and closing of the script window
 - [ ] Expand the range of available arguments
 
@@ -30,6 +34,11 @@ git clone https://github.com/RegEdits-TSC/VT-Launch-Scripts.git
    - Move the scripts from the VT-Launch-Scripts folder to the VineTrimmer directory.
 6) Run the script
    - You can now execute the script as needed.
+  
+# Usage
+To use the VineTrimmer script, open the downloaded .bat file. Follow the on-screen prompts to provide the necessary information, including the video URL, quality settings, release range, codec preferences, and options for subtitles and remuxing.
+
+============================================================================================
 
 ## RegEdits Torrenting
 

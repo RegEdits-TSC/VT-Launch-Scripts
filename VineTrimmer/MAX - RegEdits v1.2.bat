@@ -39,9 +39,9 @@ SET /p url=Paste MAX URL (or type "exit" to quit):
 IF /I "%url%"=="exit" EXIT
 
 :: Check if URL starts with the required string
-echo %url% | findstr /b /c:"https://play.max.com/movie/" >nul
+echo %url% | findstr /b /c:"https://play.max.com/" >nul
 IF ERRORLEVEL 1 (
-    ECHO Invalid link. The URL should start with "https://play.max.com/movie/".
+    ECHO Invalid link. The URL should start with "https://play.max.com/".
     GOTO URL
 )
 
